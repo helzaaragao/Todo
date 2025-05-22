@@ -65,13 +65,6 @@ export function App() {
     
   }
 
-  // function handleKeyDown(e: { key: string; preventDefault: () => void }) { 
-  //   if(e.key === 'Enter'){
-  //     e.preventDefault(); 
-  //     handleAddTask();
-  //   }
-  // }
-
   return (
     <main>
      <Header></Header>
