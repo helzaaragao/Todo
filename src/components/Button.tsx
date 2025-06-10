@@ -14,7 +14,5 @@ export function Button({children, ...rest}: Props){
         >
           {children}
         </button>
-        // posso mudar o nome de children para um mais entendivel depois, 
-        //se tiver
     )
 }
